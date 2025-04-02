@@ -1,6 +1,7 @@
 name: Generate ASCII artwork
 
 on: push
+workflow_dispatch:
   
 
 jobs:
