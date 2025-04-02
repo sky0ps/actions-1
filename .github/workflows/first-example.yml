@@ -14,6 +14,3 @@ jobs:
                echo "My Github Action Job"
                ls -ltra
                cat README.md
-
-        - name: Generate ASCII
-          run: cowsay -f dragon "Run for cover, I am a DRAGON" >> dragon.txt
